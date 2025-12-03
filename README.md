@@ -2,7 +2,7 @@
 
 Bu proje, bir Raspberry Pi ve kamera modülü kullanarak, kameranın görüş alanında bir hareket algılandığında otomatik olarak fotoğraf çeken bir güvenlik sistemi altyapısıdır.
 
-Proje, Python ve OpenCV [cite: 38] kütüphanesi kullanarak çalışır. Temel mantığı, iki video karesi arasındaki farkı analiz etmektir.
+Proje, Python ve OpenCV  kütüphanesi kullanarak çalışır. Temel mantığı, iki video karesi arasındaki farkı analiz etmektir.
 
 # Donanım Gereksinimleri
 
